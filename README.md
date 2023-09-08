@@ -62,7 +62,7 @@ Here you can find my open-source projects, contributions, and more. Feel free to
 
 ### Technologies I Love 💻
 
-<img src="./MUI.png" alt="MUI" height="100px" /> <img src="./ReduxToolKit.jpg" alt="Redux ToolKit" height="100px" /> <img src="./FireBase.png" alt="FireBase" height="100px" />
+<img src="./MUI.png" alt="MUI" height="60px" /> <img src="./ReduxToolKit.jpg" alt="Redux ToolKit" height="70px" /> <img src="./FireBase.png" alt="FireBase" height="60px" />
 
 [![GitHub followers](https://img.shields.io/github/followers/emrahugurlu2003?style=social)](https://github.com/emrahugurlu2003)
 
