@@ -66,7 +66,7 @@ Here you can find my open-source projects, contributions, and more. Feel free to
 
 [![GitHub followers](https://img.shields.io/github/followers/emrahugurlu2003?style=social)](https://github.com/emrahugurlu2003)
 
-![](https://komarev.com/ghpvc/?username=AliDurul&style=flat-square)
+<!-- ![](https://komarev.com/ghpvc/?username=AliDurul&style=flat-square) -->
 
 <!-- ![](https://komarev.com/ghpvc/?username=emrahugurlu2003&color=blue&style=for-the-badge) -->
 <!-- ![Profile views](https://gpvc.arturio.dev/AliDurul) -->
